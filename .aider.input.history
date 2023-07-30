@@ -1,0 +1,80 @@
+# 2023-07-30 09:15:20.308809
++/help
+
+# 2023-07-30 09:15:40.507992
++create a file called start.js
+
+# 2023-07-30 09:15:57.664261
++print content of start.js
+
+# 2023-07-30 09:16:42.138554
++create a blank module
+
+# 2023-07-30 09:17:15.136738
++create an export default module inside `start.js`
+
+# 2023-07-30 09:17:29.259148
++remove module.js
+
+# 2023-07-30 09:17:40.421611
++del `module.js`
+
+# 2023-07-30 09:18:15.357370
++create a router.js file with a basic vue-router 4 setup
+
+# 2023-07-30 09:18:39.380516
++in router
+
+# 2023-07-30 09:19:39.008737
++in `router.js` add a route guard exported from a new file called guard.js. The guard should match all the routes with meta.requiresAuth allowing entry if there's an existing user otherwise redirect them to a Login.vue file
+
+# 2023-07-30 09:21:48.318569
++add a catchall route in router.js and redirect the file to a 404 page
+
+# 2023-07-30 09:22:51.155351
++remove all webpack related code in `router.js` i'm using vite.js
+
+# 2023-07-30 09:24:21.514407
++ls
+
+# 2023-07-30 09:24:34.005685
++list the files
+
+# 2023-07-30 09:25:24.368890
++/help
+
+# 2023-07-30 09:25:27.511061
++/ls
+
+# 2023-07-30 09:26:20.207476
++/add SampleAi1.vue
+
+# 2023-07-30 09:26:31.761354
++explain contents of `SampleAi1.vue`
+
+# 2023-07-30 09:27:06.986737
++/add SampleAi1.vue
+
+# 2023-07-30 09:27:14.573711
++/add AiPage.vue
+
+# 2023-07-30 09:27:52.149940
++can you debug why the card in `AiPage.vue` is not centered vertically? include `SampleAi1.vue` in the investigation
+
+# 2023-07-30 09:29:28.975208
++still not working
+
+# 2023-07-30 09:31:31.079779
++dont use vanilla css use quasar classes instead
+
+# 2023-07-30 09:32:13.269546
++remvoe the q-img in `AiPage.vue`
+
+# 2023-07-30 09:38:41.596374
++create new directory "app"
+
+# 2023-07-30 09:39:09.810331
++generate a vite app
+
+# 2023-07-30 09:39:43.835461
++generate a vite app in this project now
